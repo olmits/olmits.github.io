@@ -1,0 +1,44 @@
+[
+    {
+        "user_id": "1",
+        "user_name": "Steven Rogers",
+        "user_title": "The Captain",
+        "user_img_url": "img/testimonials/cap.jpg",
+        "comment": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Sequi eaque fugit quis quidem distinctio. Ex eaque, voluptatum, quae in iusto animi quos ducimus nulla placeat architecto distinctio!"
+    },
+    {
+        "user_id": "2",
+        "user_name": "Anthony Edward Stark",
+        "user_title": "Iron Man",
+        "user_img_url": "img/testimonials/ironman.jpg",
+        "comment": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur possimus iste velit corporis praesentium, harum ab eum eius corrupti expedita aliquam consectetur molestias temporibus."
+    },
+    {   
+        "user_id": "3",
+        "user_name": "Bruce Banner",
+        "user_title": "The Incredible Hulk",
+        "user_img_url": "img/testimonials/hulk.jpg",
+        "comment": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Alias rem id dolorem maiores quisquam odit, enim repellendus ea. Hic possimus alias eum odio amet velit facere mollitia esse deleniti sit!"
+    },
+    {
+        "user_id": "4",
+        "user_name": "Thor Odinson",
+        "user_title": "God of Thunder",
+        "user_img_url": "img/testimonials/thor.jpg",
+        "comment": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Enim expedita rerum voluptatibus sed nobis voluptates sunt reprehenderit minus, necessitatibus ipsa dolores delectus animi iure iusto."
+    },
+    {
+        "user_id": "5",
+        "user_name": "Grut",
+        "user_title": "Grut",
+        "user_img_url": "img/testimonials/grut.jpg",
+        "comment": "I am Grut"
+    },
+    {
+        "user_id": "6",
+        "user_name": "Wade Winston Wilson",
+        "user_title": "Deadpool",
+        "user_img_url": "img/testimonials/deadpool.jpg",
+        "comment": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Numquam accusamus dolore labore ea nobis placeat necessitatibus expedita consectetur, minus error, obcaecati ullam quae nemo."
+    }
+]

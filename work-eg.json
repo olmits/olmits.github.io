@@ -1,0 +1,256 @@
+[
+    {
+        "cluster": "graphicdesign",
+        "id": "graphic-design1",
+        "url": "img/works/graphic_design/graphic-design1.jpg",
+        "cluster_name": "Graphic Design",
+        "service_name": "Logo Design"
+
+    },
+    {
+        "cluster": "graphicdesign",
+        "id": "graphic-design2",
+        "url": "img/works/graphic_design/graphic-design2.jpg",
+        "cluster_name": "Graphic Design",
+        "service_name": "Booklet Design"
+    },
+    {
+        "cluster": "graphicdesign",
+        "id": "graphic-design3",
+        "url": "img/works/graphic_design/graphic-design3.jpg",
+        "cluster_name": "Graphic Design",
+        "service_name": "Catalog Design"
+    },
+    {
+        "cluster": "graphicdesign",
+        "id": "graphic-design4",
+        "url": "img/works/graphic_design/graphic-design4.jpg",
+        "cluster_name": "Graphic Design",
+        "service_name": "Calender Design"
+    },
+    {
+        "cluster": "graphicdesign",
+        "id": "graphic-design5",
+        "url": "img/works/graphic_design/graphic-design5.jpg",
+        "cluster_name": "Graphic Design",
+        "service_name": "Banner Design"
+    },
+    {
+        "cluster": "graphicdesign",
+        "id": "graphic-design6",
+        "url": "img/works/graphic_design/graphic-design6.jpg",
+        "cluster_name": "Graphic Design",
+        "service_name": "T-shirt design"
+    },
+    {
+        "cluster": "graphicdesign",
+        "id": "graphic-design7",
+        "url": "img/works/graphic_design/graphic-design7.jpg",
+        "cluster_name": "Graphic Design",
+        "service_name": "Newsletter design"
+    },
+    {
+        "cluster": "graphicdesign",
+        "id": "graphic-design8",
+        "url": "img/works/graphic_design/graphic-design8.jpg",
+        "cluster_name": "Graphic Design",
+        "service_name": "Exhibition Designs"
+    },
+    {
+        "cluster": "graphicdesign",
+        "id": "graphic-design9",
+        "url": "img/works/graphic_design/graphic-design9.jpg",
+        "cluster_name": "Graphic Design",
+        "service_name": "Invitation Card"
+    },
+    {
+        "cluster": "graphicdesign",
+        "id": "graphic-design10",
+        "url": "img/works/graphic_design/graphic-design10.jpg",
+        "cluster_name": "Graphic Design",
+        "service_name": "Business Leaflets"
+    },
+    {
+        "cluster": "graphicdesign",
+        "id": "graphic-design11",
+        "url": "img/works/graphic_design/graphic-design11.jpg",
+        "cluster_name": "Graphic Design",
+        "service_name": "Corporate Brochure"
+    },
+    {
+        "cluster": "graphicdesign",
+        "id": "graphic-design12",
+        "url": "img/works/graphic_design/graphic-design12.jpg",
+        "cluster_name": "Graphic Design",
+        "service_name": "Stationary Design"
+    },
+    {
+        "cluster": "landingpage",
+        "id": "landing_page1",
+        "url": "img/works/landing_page/landing-page1.jpg",
+        "cluster_name": "Landing Pages",
+        "service_name": "Shopify"
+    },
+    {
+        "cluster": "landingpage",
+        "id": "landing_page2",
+        "url": "img/works/landing_page/landing-page2.jpg",
+        "cluster_name": "Landing Pages",
+        "service_name": "Muzzle"
+    },
+    {
+        "cluster": "landingpage",
+        "id": "landing_page3",
+        "url": "img/works/landing_page/landing-page3.jpg",
+        "cluster_name": "Landing Pages",
+        "service_name": "Webflow"
+    },
+    {
+        "cluster": "landingpage",
+        "id": "landing_page4",
+        "url": "img/works/landing_page/landing-page4.jpg",
+        "cluster_name": "Landing Pages",
+        "service_name": "Wistia"
+    },
+    {
+        "cluster": "landingpage",
+        "id": "landing_page5",
+        "url": "img/works/landing_page/landing-page5.jpg",
+        "cluster_name": "Landing Pages",
+        "service_name": "Teambit"
+    },
+    {
+        "cluster": "landingpage",
+        "id": "landing_page6",
+        "url": "img/works/landing_page/landing-page6.jpg",
+        "cluster_name": "Landing Pages",
+        "service_name": "Airbnb"
+    },
+    {
+        "cluster": "landingpage",
+        "id": "landing_page7",
+        "url": "img/works/landing_page/landing-page7.jpg",
+        "cluster_name": "Landing Pages",
+        "service_name": "TransferWise"
+    },
+    {
+        "cluster": "webdesign",
+        "id": "web_design1",
+        "url": "img/works/web_design/web-design1.jpg",
+        "cluster_name": "Web Design",
+        "service_name": "Creative Design"
+    },
+    {
+        "cluster": "webdesign",
+        "id": "web_design2",
+        "url": "img/works/web_design/web-design2.jpg",
+        "cluster_name": "Web Design",
+        "service_name": "Creative Design"
+    },
+    {
+        "cluster": "webdesign",
+        "id": "web_design3",
+        "url": "img/works/web_design/web-design3.jpg",
+        "cluster_name": "Web Design",
+        "service_name": "Creative Design"
+    },
+    {
+        "cluster": "webdesign",
+        "id": "web_design4",
+        "url": "img/works/web_design/web-design4.jpg",
+        "cluster_name": "Web Design",
+        "service_name": "Creative Design"
+    },
+    {
+        "cluster": "webdesign",
+        "id": "web_design5",
+        "url": "img/works/web_design/web-design5.jpg",
+        "cluster_name": "Web Design",
+        "service_name": "Creative Design"
+    },
+    {
+        "cluster": "webdesign",
+        "id": "web_design6",
+        "url": "img/works/web_design/web-design6.jpg",
+        "cluster_name": "Web Design",
+        "service_name": "Creative Design"
+    },
+    {
+        "cluster": "webdesign",
+        "id": "web_design7",
+        "url": "img/works/web_design/web-design7.jpg",
+        "cluster_name": "Web Design",
+        "service_name": "Creative Design"
+    },
+    {
+        "cluster": "wordpress",
+        "id": "wordpress1",
+        "url": "img/works/wordpress/wordpress1.jpg",
+        "cluster_name": "Wordpress",
+        "service_name": "Industrial Strength"
+    },
+    {
+        "cluster": "wordpress",
+        "id": "wordpress2",
+        "url": "img/works/wordpress/wordpress2.jpg",
+        "cluster_name": "Wordpress",
+        "service_name": "Inbound Emotion"
+    },
+    {
+        "cluster": "wordpress",
+        "id": "wordpress3",
+        "url": "img/works/wordpress/wordpress3.jpg",
+        "cluster_name": "Wordpress",
+        "service_name": "Velaro Live Chat"
+    },
+    {
+        "cluster": "wordpress",
+        "id": "wordpress4",
+        "url": "img/works/wordpress/wordpress4.jpg",
+        "cluster_name": "Wordpress",
+        "service_name": "Unbounce"
+    },
+    {
+        "cluster": "wordpress",
+        "id": "wordpress5",
+        "url": "img/works/wordpress/wordpress5.jpg",
+        "cluster_name": "Wordpress",
+        "service_name": "Trulia"
+    },
+    {
+        "cluster": "wordpress",
+        "id": "wordpress6",
+        "url": "img/works/wordpress/wordpress6.jpg",
+        "cluster_name": "Wordpress",
+        "service_name": "Landbot"
+    },
+    {
+        "cluster": "wordpress",
+        "id": "wordpress7",
+        "url": "img/works/wordpress/wordpress7.jpg",
+        "cluster_name": "Wordpress",
+        "service_name": "Webprofits"
+    },
+    {
+        "cluster": "wordpress",
+        "id": "wordpress8",
+        "url": "img/works/wordpress/wordpress8.jpg",
+        "cluster_name": "Wordpress",
+        "service_name": "Shopify"
+    },
+    {
+        "cluster": "wordpress",
+        "id": "wordpress9",
+        "url": "img/works/wordpress/wordpress9.jpg",
+        "cluster_name": "Wordpress",
+        "service_name": "Conversion Lab"
+    },
+    {
+        "cluster": "wordpress",
+        "id": "wordpress10",
+        "url": "img/works/wordpress/wordpress10.jpg",
+        "cluster_name": "Wordpress",
+        "service_name": "Nauto"
+        
+    }
+]
