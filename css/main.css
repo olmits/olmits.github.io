@@ -74,7 +74,7 @@ a, a:hover, a:link, a:visited, a:focus {
     text-align: center;
 }
 .section__title::after {
-    content: url(/step_project/img/section_title_underscore.png);
+    content: url(/img/section_title_underscore.png);
     position: absolute;
     left: 50%;
     top: 27px;
@@ -98,7 +98,7 @@ a, a:hover, a:link, a:visited, a:focus {
 /* CONTENT ON THE TOP OF THE PAGE */
 
 .content__top {
-    background-image: url(/step_project/img/sections_background/section-1.jpg);
+    background-image: url(/img/sections_background/section-1.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
@@ -276,23 +276,23 @@ ul.services-titles,
     box-sizing: border-box;
     width: 58%; 
     height: 97%;
-    background: url('/step_project/img/benefits_sprite.png') -242px -10px;
+    background: url('/img/benefits_sprite.png') -242px -10px;
     
 }
 .divider__benefit-block.item-2 > .benefit-block__image .benefit_image{
     width: 93%; 
     height: 75%;
-    background: url('/step_project/img/benefits_sprite.png') -129px -10px;
+    background: url('/img/benefits_sprite.png') -129px -10px;
 }
 .divider__benefit-block.item-3 > .benefit-block__image .benefit_image{
     width: 60%; 
     height: 96%;
-    background: url('/step_project/img/benefits_sprite.png') -10px -106px;
+    background: url('/img/benefits_sprite.png') -10px -106px;
 }
 .divider__benefit-block.item-4 > .benefit-block__image .benefit_image{
     width: 99%;
     height: 76%;
-    background: url('/step_project/img/benefits_sprite.png') -10px -10px;
+    background: url('/img/benefits_sprite.png') -10px -10px;
 }
 .benefit-block__benefit {
     font-size: 0.55rem;
@@ -393,7 +393,7 @@ ul.services-titles,
     position: relative;
     margin: 67px 0 0 0;
     width: 100%;
-    background-image: url(/step_project/img/sections_background/section-2.jpg);
+    background-image: url(/img/sections_background/section-2.jpg);
     background-size: cover;
     background-repeat: no-repeat;
 }
@@ -543,7 +543,7 @@ ul.services-titles,
     margin: 89px 0 59px 0;
     width: 100%;
     background: rgba(255, 255, 255, 1);
-    background-image: url(/step_project/img/sections_background/section-3.jpg);
+    background-image: url(/img/sections_background/section-3.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     /* background-attachment: fixed; */
